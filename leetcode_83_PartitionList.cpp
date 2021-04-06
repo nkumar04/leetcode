@@ -41,7 +41,5 @@ public:
         }
         tail->next = dummy2->next;
         return dummy1->next;
-        
-        
     }
 };
